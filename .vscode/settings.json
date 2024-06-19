@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "gst.h": "c",
+        "glib-compat.h": "c",
+        "glib.h": "c",
+        "galloca.h": "c",
+        "gtypes.h": "c",
+        "gmacros.h": "c"
+    }
+}
