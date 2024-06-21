@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Gstreamer",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/lib/x86_64-linux-gnu/glib-2.0/include",
+                "/usr/include/glib-2.0",
+                "/usr/lib/x86_64-linux-gnu/gstreamer-1.0/include/",
+                "/usr/include/gstreamer-1.0",
+                "/usr/include/gio-unix-2.0",
+                "/usr/include/cairo",
+                "/usr/include/pango-1.0",
+                "/usr/include/harfbuzz",
+                "/usr/include/atk-1.0",
+                "/usr/include/pixman-1",
+                "/usr/include/uuid",
+                "/usr/include/freetype2",
+                "/usr/include/gdk-pixbuf-2.0"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
